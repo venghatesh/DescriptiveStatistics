@@ -12,7 +12,7 @@ A foundation in statistics also allows you to be a consumer of analyses that oth
 others have drawn from their investigations.
 
 
-As part of this project following this are done
+Scope of the work
 
 a) Identify components of the stroops experiment
 
