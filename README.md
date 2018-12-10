@@ -13,6 +13,9 @@ others have drawn from their investigations.
 
 
 As part of this project following this are done
+
 a) Identify components of the stroops experiment
+
 b) Use descriptive statistics to describe qualities of a sample
+
 c) Setting up a hypothesis test, make inferences from a sample, and draw conclusions based on the results
